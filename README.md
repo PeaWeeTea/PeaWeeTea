@@ -3,7 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Video Games</b>
-  - [Praciting DS & Algos in Python]()
+  - [Dino Shooter Video Game in Godot]()
+  - [Heart Platformer Video Game in Godot]()
 - <b>Web App Using Python and Flask</b>
   - [Stock Trading Web App]()
 
