@@ -3,10 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Video Games</b>
-  - [Dino Shooter Video Game in Godot]()
-  - [Heart Platformer Video Game in Godot]()
+  - [Dino Shooter Video Game in Godot](https://github.com/PeaWeeTea/Dino-Shooter)
+  - [Heart Platformer Video Game in Godot](https://github.com/PeaWeeTea/heart-platformer)
 - <b>Web App Using Python and Flask</b>
-  - [Stock Trading Web App]()
+  - [Stock Trading Web App](https://github.com/PeaWeeTea/Stock-Trading-Web-App)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -17,7 +17,7 @@
 [linkedin]: https://www.linkedin.com/in/preston-williams-2a6739233/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PeaWeeTea/PeaWeeTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
